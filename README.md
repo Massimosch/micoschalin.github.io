@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=massimosch&label=Profile%20views&color=0e75b6&style=flat" alt="massimosch" /> </p>
 
 - 🔭 I’m currently working on own projects: **2D RPG, 2.5D Space Shooter**
-**SPACE SHOOTER;** https://simmer.io/@MicoSchalin/spaceshooter-2-5d-mico-demo-version-1
+- **SPACE SHOOTER;** https://simmer.io/@MicoSchalin/spaceshooter-2-5d-mico-demo-version-1
 
 
 - 🌱 I’m currently learning C# with **uDemy Courses and Studying in Taitotalo**
